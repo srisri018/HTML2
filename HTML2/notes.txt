@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Html</title>
+</head>
+<body>
+    <h1>Heading</h1>
+    <h2>Heading</h2>
+    <h3>Heading</h3>
+    <h4>Heading</h4>
+    <h5>Heading</h5>
+    <h6>Heading</h6>
+    <p>Lorem ipsum dolor sit amet <a href="">adipisicing</a>consectetur adipisicing elit. Nostrum asperiores, iste minus, fugit optio earum perspiciatis dolore ipsam facere quo blanditiis. Culpa voluptatem perferendis sed laudantium asperiores? Veritatis, quam repellat.</p>
+  <a href="http://www.python.org">Open</a>
+  <a href="http:www.amazon.in/">Tap</a>
+  <a href="http://www.facebook.com" target="_blank">clicked me</a> 
+  <a href="http://www.google.com" target="_blank">click</a> 
+  <a href="../notes.txt" download>click for download</a>
+ 
+
+<b>commands</b>
+
+ br - break the line 
+ hr - horizantal line
+ b - it is used to make the text Bold
+ strong - strong tag is used to make the text Bold
+ i - itllac text
+ em - itllac text it will be strong that is understand by search engine
+ u - underline of text
+ del - underline in middle of the text 
+ strike - underline in middle of the text 
+ ins - insert the text in underline: (before text will be underline in middle of the text )
+ sub - subscript is the (102) 2 is sub in 10
+ sup - superscript is the (102) 2 is sup in 10 (10sqare)
+ pre - pre formatted text it was printed in same as vs code the text as in same line
+         example:
+                  Roses are red 
+                  voilets are blue 
+                  ....... .......
+ marquee - scroll object or text  horizantally    ( like scrolling the adds or news in channels )   
+ mark - is the highlighter of text (<mark>sri</mark>)           
+ 
+
+
+
+
+
+
+
+
+</body>
+</html>

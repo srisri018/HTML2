@@ -1,0 +1,5 @@
+git -v
+git init
+git add .
+git add notes.txt
+git commit -m "message"
